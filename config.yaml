@@ -1,0 +1,4 @@
+agents:
+  - name: xavier
+    role: privacy_guardian
+    description: Watches all outputs and traffic for privacy violations
