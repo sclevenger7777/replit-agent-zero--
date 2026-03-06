@@ -1,8 +1,8 @@
-# replit-agent-zero--
-"Agent Zero CLI+ Web interface for Replit"
-#  Agent Zero: Replit Edition
+# agent-zero--
+"Agent Zero CLI+ Web interface "
+#  Agent Zero: testing 
 
-**Agent Zero** is a modular, multi-agent privacy guardian and tool orchestrator designed to run fully inside **Replit** or any standard **Windows/Linux environment** — no Termux, root access, or mobile setup required.
+**Agent Zero** is a modular, multi-agent privacy guardian and tool orchestrator designed to originaluiredmuxor any standard **Windows/Linux environment** — no Termux, root access, or mobile setup required.
 
 This version is adapted from the original Android+Termux-based Agent Zero project and is simplified for ease of use, learning, and future expansion.
 
@@ -19,11 +19,11 @@ This version is adapted from the original Android+Termux-based Agent Zero projec
 
 ---
 
-##  Setup (One-Click on Replit)
+##  Setup (One-Click)
 
-> Click **"Run"** on Replit or follow these steps locally:
+> Click **"Run"*** or follow these steps locally:
 
-```bash
+`Cloneh
 # 1. Clone the repo
 git clone https://github.com/sclevenger7777/replit-agent-zero--
 cd replit-agent-zero--
