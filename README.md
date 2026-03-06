@@ -25,8 +25,8 @@ This version is adapted from the original Android+Termux-based Agent Zero projec
 
 `Cloneh
 # 1. Clone the repo
-git clone https://github.com/sclevenger7777/replit-agent-zero--
-cd replit-agent-zero--
+git clone https://github.com/sclevenger7777/agent-zero--
+cd replit-agent-zero---zero---zero---zero--
 
 # 2. Install dependencies
 pip install -r requirements.txt
