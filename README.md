@@ -15,7 +15,7 @@ This version is adapted from the original Android+Termux-based Agent Zero projec
 -  CLI entrypoint (`main.py`) for local use
 -  Dynamic tool discovery with caching (`tool_discovery.py`)
 -  Persistent memory using SQLite (`agent_zero_memory.db`)
--  Fully self-contained – ready to run on Replit, GitHub Codespaces, or locally
+-  Fully self-contained – ready to run on GitHub Codespaces, or locally
 
 ---
 
@@ -26,7 +26,7 @@ This version is adapted from the original Android+Termux-based Agent Zero projec
 `Cloneh
 # 1. Clone the repo
 git clone https://github.com/sclevenger7777/agent-zero--
-cd replit-agent-zero---zero---zero---zero--
+cd agent-zero---zero---zero---zero--
 
 # 2. Install dependencies
 pip install -r requirements.txt
